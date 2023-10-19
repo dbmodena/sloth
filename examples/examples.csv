@@ -1,0 +1,31 @@
+﻿id;r_id;s_id;r_w;r_h;r_a;r_dist;s_w;s_h;s_a;s_dist;seeds;algo;o_w;o_h;o_a;jaccard;set_overlap;sloth;category
+1;tab001;tab002;30;31;930;75;30;31;930;75;842;a;14.0;4.0;56.0;0.923077;0.960000;0.060215;overestimated set measures due to repetition and alignment
+2;tab003;tab004;28;29;812;77;28;29;812;74;730;a;6.0;8.0;48.0;0.911392;0.972973;0.059113;overestimated set measures due to repetition and alignment
+3;tab005;tab006;28;29;812;74;28;29;812;76;730;a;7.0;7.0;49.0;0.948052;0.986486;0.060345;overestimated set measures due to repetition and alignment
+4;tab007;tab008;3;16;48;48;4;38;152;147;3;e;3.0;15.0;45.0;0.308725;0.958333;0.937500;low jaccard similarity due to different set size (additional rows and/or columns)
+5;tab009;tab010;3;12;36;33;3;33;99;85;5;e;3.0;12.0;36.0;0.388235;1.0;1.0;low jaccard similarity due to different set size (additional rows and/or columns)
+6;tab011;tab012;4;15;60;46;4;56;224;160;4;e;4.0;15.0;60.0;0.2875;1.0;1.0;low jaccard similarity due to different set size (additional rows and/or columns)
+7;tab013;tab014;7;31;217;143;3;31;93;58;3;e;3.0;29.0;87.0;0.386207;0.965517;0.935484;low jaccard similarity due to different set size (additional rows and/or columns)
+8;tab015;tab016;5;12;60;45;5;37;185;124;5;e;5.0;11.0;55.0;0.352;0.977778;0.916667;low jaccard similarity due to different set size (additional rows and/or columns)
+9;tab017;tab018;5;10;50;50;3;10;30;21;5;e;1.0;9.0;9.0;0.365385;0.904762;0.3;overestimated set overlap similarity
+10;tab019;tab020;6;22;132;109;6;10;60;51;6;e;4.0;8.0;32.0;0.391304;0.882353;0.533333;overestimated set overlap similarity
+11;tab021;tab022;6;101;606;458;3;101;303;218;2;e;2.0;90.0;180.0;0.390947;0.87156;0.594059;overestimated set overlap similarity
+12;tab023;tab024;4;16;64;45;4;33;132;89;5;e;1.0;11.0;11.0;0.367347;0.8;0.171875;overestimated set overlap similarity
+13;tab025;tab026;5;12;60;45;4;10;40;25;10;e;1.0;8.0;8.0;0.4;0.8;0.2;overestimated set overlap similarity
+14;tab027;tab028;7;14;98;98;10;10;100;100;56;a;1.0;3.0;3.0;0.850467;0.928571;0.030612;overestimated set measures due to repetition and alignment
+15;tab029;tab030;5;18;90;54;5;17;85;50;11;e;2.0;17.0;34.0;0.857143;0.96;0.4;overestimated set measures due to repetition and alignment
+16;tab031;tab032;5;89;445;442;5;84;420;406;11;e;3.0;56.0;168.0;0.839479;0.953202;0.4;overestimated set measures due to repetition and alignment
+17;tab033;tab034;5;21;105;75;8;21;168;84;14;e;2.0;21.0;42.0;0.848837;0.973333;0.4;overestimated set measures due to repetition and alignment
+18;tab035;tab036;4;16;64;31;4;13;52;27;4;e;3.0;6.0;18.0;0.8125;0.962963;0.346154;overestimated set measures due to repetition and alignment
+19;tab037;tab038;4;17;68;36;4;18;72;38;16;e;4.0;5.0;20.0;0.804878;0.916667;0.294118;overestimated set measures due to repetition and alignment
+20;tab039;tab040;4;37;148;89;4;40;160;96;8;e;1.0;36.0;36.0;0.868687;0.966292;0.243243;overestimated set measures due to repetition and alignment
+21;tab041;tab042;5;24;120;58;5;24;120;58;4;e;4.0;24.0;96.0;0.414634;0.586207;0.8;underestimated set measures due to repetition
+22;tab043;tab044;6;16;96;36;6;16;96;36;28;e;5.0;16.0;80.0;0.411765;0.583333;0.833333;underestimated set measures due to repetition
+23;tab045;tab046;13;33;429;149;13;33;429;149;57;e;11.0;33.0;363.0;0.419048;0.590604;0.846154;underestimated set measures due to repetition
+24;tab047;tab048;5;10;50;43;5;11;55;47;4;e;4.0;10.0;40.0;0.578947;0.767442;0.8;low jaccard similarity due to divide by union
+25;tab049;tab050;10;13;130;88;10;12;120;88;12;e;8.0;12.0;96.0;0.571429;0.727273;0.8;low jaccard similarity due to divide by union
+26;tab051;tab052;3;112;336;225;11;10;110;110;10;e;1.0;9.0;9.0;0.361789;0.809091;0.081818;overestimated set overlap similarity
+27;tab053;tab054;3;15;45;30;3;24;72;72;3;e;1.0;14.0;14.0;0.342105;0.866667;0.311111;overestimated set overlap similarity
+28;tab055;tab056;5;11;55;37;5;11;55;36;7;e;2.0;8.0;16.0;0.825;0.916667;0.290909;overestimated set measures due to repetition and alignment
+29;tab057;tab058;4;18;72;49;4;18;72;50;8;e;1.0;12.0;12.0;0.867925;0.938776;0.166667;overestimated set measures due to repetition and alignment
+30;tab059;tab060;4;10;40;28;4;11;44;28;6;e;3.0;8.0;24.0;0.866667;0.928571;0.6;overestimated set measures due to repetition and alignment
