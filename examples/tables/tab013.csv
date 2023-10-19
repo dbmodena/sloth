@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+Train No.,Train Name,Train Type,Scheduled Arrival,Scheduled Departure,Days,Terminating station(Going towards)
+12179,Agra Cantt.-Lucknow Jn.INTERCITY,Superfast Express,18:44,18:45,Daily,Lucknow Junction railway station
+12180,Agra Cantt.-Lucknow Jn. Intercity Express,Superfast Express,08:41,08:42,Daily,Agra cantonment railway station
+12311,HWH DLI Kalka Mail,Superfast Mail Express,13:42,13:44,Daily,Howrah Junction railway station
+12312,Kalka Mail,Superfast Mail Express,12:48,12:50,Daily,Delhi Junction railway station
+12419,Gomti Express,Superfast Expresss,09:04,09:06,Daily,New Delhi railway station
+12420,Gomti Express,Superfast Express,18:01,18:03,Daily,Lucknow Charbagh railway station
+13007,Udyan Abha Toofan Express,Mail Express,09:58,10:01,Daily,Shri Ganganagar Junction railway station
+13008,Udyan Abha Toofan Express,Mail Express,16:51,16:53,Daily,Howrah Junction railway station
+14163,Sangam Express,Mail Express,22:44,22:46,Daily,Meerut City railway station
+14164,Sangam Express,Mail Express,02:41,02:43,Daily,Allahabad Junction railway station
+14217,Unchahar Express,Mail Express,21:21,21:13,Daily,Chandigarh
+14218,Unchahar Express,Mail Express,03:36,03:38,Daily,Prayag
+15483,Sikkim Mahananda Express,Mail Express,14:21,14:23,Daily,Delhi Junction
+15484,Sikkim Mahananda Express,Mail Express,13:22,13:24,Daily,Alipurduar Junction railway station
+18101,TATA MURI -HTE - JAT EXPRESS,Mail Express,14:11,14:15,Daily,Jammu Tawi
+18102,Jat Muri Tata Express,Mail Express,10:45,10:47,Daily,Tatanagar Junction railway station
+19037,Avadh Express,Mail Express,02:15,02:20,"Tue,Thu,Fri,Sun",Gorakhpur Junction railway station
+19038,Avadh Express,Mail Express,23:40,23:42,"Mon,Wed,Fri,Sat",Bandra Terminus railway station
+19039,Avadh Express,Mail Express,02:15,02:35,"Mon,Wed,Sat",Muzaffarpur Junction railway station
+19040,Avadh Express,Mail Express,23:40,23:42,"Tue,Thu,Sat",Bandra Terminus railway station
+64153,CNB-ETW MEMU,MEMU,08:12,08:13,Daily,Etawah Junction railway station
+64156,ETW-CNB MEMU,MEMU,17:30,17:31,Daily,Kanpur Central railway station
+64161,PHD-SKB MEMU,MEMU,Source,20:20,Daily,Shikohabad railway station
+64162,PHD-CNB MEMU,MEMU,Source,08:15,Daily,Kanpur Central railway station
+64587,CNB-TDL MEMU,MEMU,15:45,15:46,Daily,Tundla Junction railway station
+64588,TDL-CNB MEMU,MEMU,10:00,10:06,Daily,Kanpur Central railway station
+64590,PHD-CNB MEMU,MEMU,Source,06:00,Daily,Kanpur Central railway station
+64159,CNB-PHD MEMU,MEMU,19:50,Destination,Daily,Destination(PHD)
+64589,CNB-PHD MEMU,MEMU,20:55,Destination,Daily,Destination(PHD)
+64164,SKB-PHD MEMU,MEMU,07:45,Destination,Daily,Destination(PHD)
