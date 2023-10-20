@@ -1,0 +1,12 @@
+0,1,2,3,4
+Place,Country,Games,Wins,Losses
+{{Gold1}},{{CAN}},11,10,1
+{{Silver2}},{{USA}},11,7,4
+{{Bronze3}},{{SWE}},10,6,4
+{{Bronze3}},{{DEN}},10,7,3
+5,{{NOR}},9,5,4
+6,{{SUI}},9,5,4
+7,{{SCO}},9,4,5
+8,{{GER}},9,2,7
+9,{{JPN}},9,2,7
+10,{{BUL}},9,0,9
