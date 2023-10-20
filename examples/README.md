@@ -18,8 +18,8 @@ The "examples.csv" file contains the statistics about the example table pairs, r
 - comment: case represented by the pair
 
 Our examples address 4 main cases:
-- high_set_measures: jaccard similarity and overlap set similarity significantly greater than the normalized largest overlap area (due to the repetition and the alignment of cell values)
-- low_set_measures: jaccard similarity and overlap set similarity significantly smaller than the normalized largest overlap area (due to the repetition of cell values)
+- high_set_measures: jaccard similarity and overlap set similarity significantly greater than normalized largest overlap area (due to the repetition and the alignment of cell values)
+- low_set_measures: jaccard similarity and overlap set similarity significantly smaller than normalized largest overlap area (due to the repetition and the alignment of cell values)
 - low_jaccard_similarity: jaccard similarity significantly smaller than overlap set similarity and the normalized largest overlap area (bias against sets of different size)
 - high_set_overlap: overlap set similarity significantly greater than jaccard similarity and the normalized largest overlap area
 
