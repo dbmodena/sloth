@@ -25,6 +25,6 @@ Our examples address 4 main cases:
 
 The user can explore the table pairs through the provided Jupyter notebook, simply by assigning the id of the table pair to the dedicated variable.
 The notebook allows to visualize the statistics about the example table pairs from the "examples.csv" file, the two tables (with the related context, i.e., page and section in Wikipedia, and the number of declared header rows, ignored by the largest overlap computation), and the corresponding overlap, all in pandas DataFrame format.
-Note that in case multiple largest overlap were detected, for simplicity we stored the first one.
+Note that in case multiple largest overlaps were detected, for simplicity we stored the first one.
 
 Alternatively, some examples for the 4 cases are presented in HTML format in the "html" folder.
