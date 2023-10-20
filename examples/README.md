@@ -20,8 +20,8 @@ The "examples.csv" file contains the statistics about the example table pairs, r
 Our examples address 4 main cases:
 - high_set_measures: jaccard similarity and overlap set similarity significantly greater than normalized largest overlap area (due to the repetition and the alignment of cell values)
 - low_set_measures: jaccard similarity and overlap set similarity significantly smaller than normalized largest overlap area (due to the repetition and the alignment of cell values)
-- low_jaccard_similarity: jaccard similarity significantly smaller than overlap set similarity and the normalized largest overlap area (bias against sets of different size)
-- high_set_overlap: overlap set similarity significantly greater than jaccard similarity and the normalized largest overlap area
+- low_jaccard_similarity: jaccard similarity significantly smaller than overlap set similarity and normalized largest overlap area (bias against sets of different size)
+- high_set_overlap: overlap set similarity significantly greater than jaccard similarity and normalized largest overlap area
 
 The user can explore the table pairs through the provided Jupyter notebook, simply by assigning the id of the table pair to the dedicated variable.
 The notebook allows to visualize the statistics about the example table pairs from the "examples.csv" file, the two tables (with the related context, i.e., page and section in Wikipedia, and the number of declared header rows, ignored by the largest overlap computation), and the corresponding overlap, all in pandas DataFrame format.
